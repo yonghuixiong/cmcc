@@ -1,11 +1,13 @@
 # Table of contents
 
 * [1、学校基础数据导入](README.md)
-  * [1.1基础数据导入](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.1-ji-chu-shu-ju-dao-ru.md)
-  * [1.2登陆信息](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.2-deng-lu-xin-xi.md)
+  * [1.1登陆信息](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.2-deng-lu-xin-xi.md)
+  * [1.2基础数据导入](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.1-ji-chu-shu-ju-dao-ru/README.md)
+    * [1.2.1邀请注册，自主激活](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.1-ji-chu-shu-ju-dao-ru/1.2.1-yao-qing-zhu-ce-zi-zhu-ji-huo.md)
+    * [1.2.2管理员批量导入](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.1-ji-chu-shu-ju-dao-ru/1.2.2-guan-li-yuan-pi-liang-dao-ru.md)
   * [1.3师生人脸ID照片](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.3-shi-sheng-ren-lian-id-zhao-pian/README.md)
-    * [管理员或者班主任批量导入人脸ID](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.3-shi-sheng-ren-lian-id-zhao-pian/guan-li-yuan-huo-zhe-ban-zhu-ren-pi-liang-dao-ru-ren-lian-id.md)
-    * [师生通过手机APP或者微信公众号自行上传人脸](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.3-shi-sheng-ren-lian-id-zhao-pian/shi-sheng-tong-guo-shou-ji-app-huo-zhe-wei-xin-gong-zhong-hao-zi-hang-shang-chuan-ren-lian.md)
+    * [1.3.1管理员或者班主任批量导入人脸ID](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.3-shi-sheng-ren-lian-id-zhao-pian/guan-li-yuan-huo-zhe-ban-zhu-ren-pi-liang-dao-ru-ren-lian-id.md)
+    * [1.3.2师生通过手机APP或者微信公众号自行上传人脸](1-xue-xiao-ji-chu-shu-ju-dao-ru/1.3-shi-sheng-ren-lian-id-zhao-pian/shi-sheng-tong-guo-shou-ji-app-huo-zhe-wei-xin-gong-zhong-hao-zi-hang-shang-chuan-ren-lian.md)
 * [2、出入管理报表查看（健康码状态等）](2-chu-ru-guan-li-bao-biao-cha-kan-jian-kang-ma-zhuang-tai-deng.md)
 * [3、电子哨兵设备维护](3-dian-zi-shao-bing-she-bei-wei-hu/README.md)
   * [设备在平台上设置（含同住人等）](3-dian-zi-shao-bing-she-bei-wei-hu/she-bei-zai-ping-tai-shang-she-zhi-han-tong-zhu-ren-deng.md)
